@@ -1,6 +1,6 @@
 # FAQ
 
-### Activate Visual Composer for portfolio
+## Activate Visual Composer for portfolio
 
 As an administrator user, you should go to Visual Composer -&gt;**settings &gt; Role Management** and you can define which user groups can use the visual composer on which post types.
 
@@ -9,7 +9,7 @@ As an administrator user, you should go to Visual Composer -&gt;**settings &gt; 
 ![](https://ticksy_attachments.s3.amazonaws.com/5316726975.jpg)
 
 
-### Are you sure you want to do this? WordPress Error
+## Are you sure you want to do this? WordPress Error
 
 > This is not a theme issue or bug.
 
@@ -25,3 +25,5 @@ Most hosting companies configure their servers to only have the maximum file upl
   * `post_max_size 48M`
   * `upload_max_filesize 48M`
 2. You can unzip theme zip file and upload the content directly to WordPress -&gt;wp-content-&gt;themes  theme via FTP and then go to dashboard-&gt;appearance-&gt;themes and activate Hilbert.
+
+## How to add background image to a row?
