@@ -25,6 +25,17 @@ Most hosting companies configure their servers to only have the maximum file upl
 2. You can unzip theme zip file and upload the content directly to WordPress -&gt;wp-content-&gt;themes  theme via FTP and then go to dashboard-&gt;appearance-&gt;themes and activate Hilbert.
 
 ## How to add background image to a row?
+As you may have noticed you can have a background image with overlay for a row. 
+
+In a page click on the <mark>edit</mark> icon of the <mark>row</mark>
+![Image Title](img/faq4.png)
+
+There you can add a background image and set it to cover the area. And for an overlay go to overlay tab and select one.
+
+![Image Title](img/faq5.png)
+
+> Note: if you are using a dark background or a dark overlay, you can choose **light Text** at that tab to make texts lighter.
+
 
 ## How to rate a Item at Themeforest?
 Your rating and review is very important for us. 
