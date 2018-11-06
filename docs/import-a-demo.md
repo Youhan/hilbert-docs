@@ -2,15 +2,14 @@
 
 > **Requirement**: You need the **One Click Demo Import plugin** installed and activated in order to continue.
 
-> image
-<!-- ![](.gitbook/assets/2017-01-05_09-49-59-2.jpg) -->
+![demo](img/im1.png) 
 
 From the Appearance menu or the **About Hilbert Theme page**, select the **Import Demo** and you will be presented with available demos.
 
-> image
-<!-- ![](.gitbook/assets/2017-01-05_10-32-40.jpg) -->
 
-Click on any demo that you want to import and all pages, posts, galleries, portfolios, widgets and theme options will be added to your website.
+![demo2](img/im2.png) 
+
+Click on any demo that you want to import and all pages, posts, publications, events, widgets, etc and theme options will be added to your website.
 
 ## WordPress Reset
 
