@@ -2,7 +2,7 @@
 !> you need to install and activate the **Hilbert Theme Plugin** first.
 
 ## Add a Person
-Adding a publication is simple.
+Adding a new person is simple.
 1. Admin Panel > People menu > Add new
 2. Enter the Name of the person
 3. You can build a page for it using the WP Editor or Page Builder.
