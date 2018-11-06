@@ -1,6 +1,6 @@
 # Publications
 
-> you need to install and activate the **Hilbert Theme Plugin** first.
+!> you need to install and activate the **Hilbert Theme Plugin** first.
 
 ## Add a Publication
 Adding a publication is simple.
