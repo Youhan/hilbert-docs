@@ -36,18 +36,3 @@ There you can add a background image and set it to cover the area. And for an ov
 
 > Note: if you are using a dark background or a dark overlay, you can choose **light Text** at that tab to make texts lighter.
 
-
-## How to rate a Item at Themeforest?
-Your rating and review is very important for us. 
-
-In case you have faced any problem in the product, please contact us, open a ticket and we will address the issue as soon as possible but if you are satisfied and feel like you want to give us a highfive, then you better make a 5 star rating for the item you purchased.
-
-1. Login into your Account on Themeforest
-2. When successfully logged in, move your mouse over your username as seen at the below image
-3. Navigate to your Downloads
-4. Search our template, move your mouse over the last star and click
-5. Then you may provide the reason
-6. Write a nice review and we will show it proudly to other people 
-
-![Image Title](img/faq2.jpg)
-![Image Title](img/faq3.jpg) 

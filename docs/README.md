@@ -12,11 +12,4 @@ If you are all new to WordPress, it is recommended to learn a little bit about i
 * **Full Installation Guide**: [http://codex.WordPress.org/First\_Steps\_With\_WordPress](http://codex.WordPress.org/First_Steps_With_WordPress)
 * **WordPress Video Tutorials**: [http://wp.tutsplus.com/sessions/wp101-basix-training/](http://wp.tutsplus.com/sessions/wp101-basix-training/)
 
-Once you have made the purchase you will find our product in your [ThemeForest Downloads page](http://themeforest.net/downloads/). Click on Download and you will a dropdown will popup with following options:
 
-* All Files & Documentation
-* Installable WordPress File Only
-* License Certificate & Purchase Code \(PDF\)
-* License Certificate & Purchase Code \(text\)
-
-We recommend to download all files & documentation \(the package\) however you can simply download installable WordPress file only if you just want the WordPress Theme file.

@@ -8,7 +8,7 @@ Then you need to install 1. Theme itself 2. Required Plugins
 
 # Theme
 
-Extract the zipped package downloaded from ThemeForest to your desktop and find **hilbert.zip** file. You can install the theme using admin panel or FTP.
+Extract the zipped package downloaded from market to your desktop and find **hilbert.zip** file. You can install the theme using admin panel or FTP.
 
 ## Installing the theme using WordPress admin panel
 
